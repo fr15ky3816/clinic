@@ -14,5 +14,8 @@ a {
 #header-left{
   float:left;
   width:100%;
-
+}
+#header-right{
+  float:right;
+  
 }
